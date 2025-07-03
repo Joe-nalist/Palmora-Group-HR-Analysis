@@ -1,6 +1,6 @@
 # 📊 Palmoria Group HR Analysis
 ## 📁 Overview
-The Palmoria Group HR Analysis project is a data-driven HR analytics case study for a Nigerian manufacturing company — Palmoria Group — which is facing public scrutiny over gender inequality across its three operational regions. This analysis was commissioned by the CHRO, Mr. Yunus Shofoluwe, to support strategic decision-making and mitigate reputational risk.
+The Palmoria Group HR Analysis project is a data-driven HR analytics case study for a Nigerian manufacturing company; Palmoria Group which is facing public scrutiny over gender inequality across its three operational regions. This analysis is to support strategic decision-making and mitigate reputational risk.
 
 The insights generated from this report are intended to help Palmoria address internal gender-related issues, identify pay disparities, evaluate regional performance alignment, and ensure compliance with government-mandated compensation policies.
 
@@ -54,13 +54,13 @@ The insights generated from this report are intended to help Palmoria address in
 ### 📊 Visualizations Used
 The Power BI report includes the following:
 
-- Gender Distribution: Pie and stacked bar charts (by region and department)
+- Gender Distribution: Pie and stacked column charts (by region and department)
 
-- Performance Ratings by Gender: Clustered column chart
+- Performance Ratings by Gender: Line Chart
 
-- Average Salary by Gender: Clustered bar chart
+- Average Salary by Gender and Location: stacked bar chart
 
-- Salary Distribution Bands: Histogram with $10,000 intervals
+- Salary Distribution Bands: Clustered Column Chart with $10,000 intervals
 
 - Salary Compliance Check: KPI visual and conditional column chart
 
