@@ -49,7 +49,7 @@ The insights generated from this report are intended to help Palmoria address in
 
 - Employees in departments labeled "NULL" were excluded
 
-- Employees with undisclosed gender were assigned a default label: "Unspecified"
+- Employees with undisclosed gender were assigned a gender randomly
 
 ### 📊 Visualizations Used
 The Power BI report includes the following:
